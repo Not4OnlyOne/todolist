@@ -16,7 +16,7 @@ A To Do List App built using React.js with CRUD functionalities with Material UI
 ![Demonstartion Video](https://j.gifs.com/1WZJKZ.gif)
 
 
-## Demo Link :point_right: [ https://amoldalwai.github.io/todolist//]( https://amoldalwai.github.io/todolist/)
+## Demo Link :point_right: [ https://amoldalwai.github.io/todolist/]( https://amoldalwai.github.io/todolist/)
 
 
 
