@@ -3,7 +3,7 @@
 A To Do List App built using React.js with CRUD functionalities with Material UI 
 
 
-![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/todolist?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/todolist?style=plastic&logo=react)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/todolist?style=plastic)
 ![Website](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Famoldalwai.github.io%2Ftodolist%2F)
 
